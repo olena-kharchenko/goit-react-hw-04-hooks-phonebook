@@ -1,0 +1,12 @@
+.filter {
+  font-style: italic;
+}
+
+.input {
+  width: 285px;
+  height: 30px;
+  padding-left: 10px;
+  outline: none;
+  border-radius: 5px;
+  border: 1px solid #cacaca;
+}
